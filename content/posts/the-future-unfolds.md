@@ -1,6 +1,6 @@
 +++
 title = 'The future Unfolds for Foldable phones!'
-date = 2024-03-02T20:00:00+01:00
+date = 2024-03-04
 draft = false
 +++
 Foldable phones have gone from futuristic concept to a niche market reality in just a few short years. While they haven't quite replaced the traditional candy bar design yet, advancements in technology and innovative designs hint at a bright future for these versatile devices.
