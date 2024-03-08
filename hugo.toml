@@ -49,7 +49,7 @@ style = "github-dark"
   url = "https://twitter.com/BrandgrandReal/"
 
 # Comment Sections
-[[params.giscus]] # https://giscus.app
+[params.giscus] # https://giscus.app
   repo = 'BrandgrandRealMe/HugoBlog'
   repoID = "R_kgDOLaXRzw"
   category = "Blog Comments"
