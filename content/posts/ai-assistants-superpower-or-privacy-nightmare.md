@@ -1,6 +1,6 @@
 +++
 title = 'AI Assistants: Superpower or Privacy Nightmare?'
-date = 03/12/2024
+date = 2024-03-12
 draft = false
 +++
 Artificial intelligence (AI) assistants have become ubiquitous in our lives. From Siri and Alexa to Google Assistant, these virtual companions handle tasks, answer questions, and even control our smart homes. While their convenience is undeniable, concerns linger about the potential privacy breaches associated with constantly recording and analyzing user data.
