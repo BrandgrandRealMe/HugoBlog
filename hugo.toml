@@ -48,6 +48,21 @@ style = "github-dark"
   weight = 3
   url = "https://twitter.com/BrandgrandReal/"
 
+# Comment Sections
+[params.giscus] # https://giscus.app
+  repo = 'BrandgrandRealMe/HugoBlog'
+  repoID = "R_kgDOLaXRzw"
+  category = "Blog Comments"
+  categoryID = "DIC_kwDOLaXRz84Cdy-g"
+  mapping = "title"
+  term = ""
+  strict = "0"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  theme = "preferred_color_scheme"
+  lang = "en"
+  loading = ""
 # Menu links
 [[menu.main]]
   name = "Blog"
